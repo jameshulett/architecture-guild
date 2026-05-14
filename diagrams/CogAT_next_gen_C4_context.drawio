@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="X9eFuu8ibDvGhvY9pwCP">
+    <mxGraphModel dx="1090" dy="1572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-18" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="390" width="805.16" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-1" parent="TtoSvJ6lzH6dkaFf2rLH-18" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="External Systems" vertex="1">
+          <mxGeometry height="93.45622119815668" width="805.16" y="296.5437788018433" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-2" parent="TtoSvJ6lzH6dkaFf2rLH-18" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Users" vertex="1">
+          <mxGeometry height="93.45622119815668" width="773.7084375" x="25.16125" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-3" parent="TtoSvJ6lzH6dkaFf2rLH-18" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Teacher" vertex="1">
+          <mxGeometry height="48.525345622119815" width="104.23946428571428" x="56.6128125" y="22.465437788018434" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-4" parent="TtoSvJ6lzH6dkaFf2rLH-18" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Student" vertex="1">
+          <mxGeometry height="48.525345622119815" width="104.23946428571428" x="247.1194196428571" y="22.465437788018434" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-5" parent="TtoSvJ6lzH6dkaFf2rLH-18" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="District Admin" vertex="1">
+          <mxGeometry height="48.525345622119815" width="145.57580357142857" x="444.99785714285713" y="22.465437788018434" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-6" parent="TtoSvJ6lzH6dkaFf2rLH-18" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Psychometrician" vertex="1">
+          <mxGeometry height="48.525345622119815" width="159.05504464285713" x="607.4644642857143" y="22.465437788018434" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-7" parent="TtoSvJ6lzH6dkaFf2rLH-18" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="CogAT Next Gen System" vertex="1">
+          <mxGeometry height="48.525345622119815" width="206.6816964285714" x="307.3266964285714" y="181.52073732718893" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-8" parent="TtoSvJ6lzH6dkaFf2rLH-18" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Student Information System" vertex="1">
+          <mxGeometry height="48.525345622119815" width="232.7415625" x="31.451562499999998" y="319.00921658986175" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-9" parent="TtoSvJ6lzH6dkaFf2rLH-18" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Identity Provider / SSO" vertex="1">
+          <mxGeometry height="48.525345622119815" width="201.29" x="309.12392857142856" y="319.00921658986175" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-10" parent="TtoSvJ6lzH6dkaFf2rLH-18" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Analytics / Data Platform" vertex="1">
+          <mxGeometry height="48.525345622119815" width="218.36370535714283" x="556.2433482142857" y="319.00921658986175" as="geometry" />
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-11" edge="1" parent="TtoSvJ6lzH6dkaFf2rLH-18" source="TtoSvJ6lzH6dkaFf2rLH-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.02;rounded=0;" target="TtoSvJ6lzH6dkaFf2rLH-7" value="Assign tests, monitor progress, view reports">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="108.73254464285714" y="137.4884792626728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-12" edge="1" parent="TtoSvJ6lzH6dkaFf2rLH-18" source="TtoSvJ6lzH6dkaFf2rLH-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.31;entryY=0;rounded=0;" target="TtoSvJ6lzH6dkaFf2rLH-7" value="Take adaptive assessment">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299.2391517857143" y="137.4884792626728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-13" edge="1" parent="TtoSvJ6lzH6dkaFf2rLH-18" source="TtoSvJ6lzH6dkaFf2rLH-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.63;entryY=0;rounded=0;" target="TtoSvJ6lzH6dkaFf2rLH-7" value="Manage users, view district insights">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="489.7457589285714" y="137.4884792626728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-14" edge="1" parent="TtoSvJ6lzH6dkaFf2rLH-18" source="TtoSvJ6lzH6dkaFf2rLH-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.97;entryY=0;rounded=0;" target="TtoSvJ6lzH6dkaFf2rLH-7" value="Author items, manage item bank">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="687.4412946428571" y="137.4884792626728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-15" edge="1" parent="TtoSvJ6lzH6dkaFf2rLH-18" source="TtoSvJ6lzH6dkaFf2rLH-7" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" target="TtoSvJ6lzH6dkaFf2rLH-8" value="Roster sync">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="148.27165178571428" y="263.29493087557603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-16" edge="1" parent="TtoSvJ6lzH6dkaFf2rLH-18" source="TtoSvJ6lzH6dkaFf2rLH-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="TtoSvJ6lzH6dkaFf2rLH-9" value="Authentication">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtoSvJ6lzH6dkaFf2rLH-17" edge="1" parent="TtoSvJ6lzH6dkaFf2rLH-18" source="TtoSvJ6lzH6dkaFf2rLH-7" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" target="TtoSvJ6lzH6dkaFf2rLH-10" value="Telemetry + data export">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="664.9758928571428" y="263.29493087557603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
